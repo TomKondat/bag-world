@@ -1,0 +1,337 @@
+[
+  
+    {
+  
+      "id": 1,
+      "img": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1445508005/400249_KHNRN_8642_001_076_0000_Light.jpg",
+      "title": "Dionysus small Gucci shoulder bag",
+      "color": "Brown",
+      "price": 700,
+      "onSale": true,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 650
+    },
+  
+    {
+      "id": 2,
+      "img": "https://www.wpdiamonds.com/wp-content/uploads/2021/09/WPD-Top-Blog-Image-49.png",
+      "title": "Konkurs Beteiligt Gucci bag",
+      "color": "Blue",
+      "price": 800,
+      "onSale": true,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 720
+    },
+  
+    {
+      "id": 3,
+      "img": "https://cdn-images.farfetch-contents.com/12/57/68/48/12576848_11977840_1000.jpg",
+      "title": "Gucci Marmont mini leather bag",
+      "color": "Black",
+      "price": 650,
+      "onSale": false,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 612
+    },
+  
+    {
+      "id": 4,
+      "img": "https://houseofbrands-eg.com/wp-content/uploads/2020/11/1-34.jpg",
+      "title": "Prada Men’s Leather Cross-Body Bag",
+      "color": "Black",
+      "price": 450,
+      "onSale": false,
+      "gender": "0",
+      "type": "Luxury",
+      "salePrice": 420
+    },
+  
+    {
+      "id": 5,
+      "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1649254331-best-gym-bag-puma-essentials-womens-training-barrel-bag-1649254313.png?crop=0.8xw:1xh;center,top&resize=768:*",
+      "title": "Essentials Women's Training Barrel Bag",
+      "color": "Blue",
+      "price": 80,
+      "onSale": false,
+      "gender": "1",
+      "type": "Gym",
+      "salePrice": 72
+    },
+  
+    {
+      "id": 6,
+      "img": "https://richmedia.ca-richimage.com/ImageDelivery/imageService?profileId=12013292&id=2850504&recipeId=381",
+      "title": "Under Armour Undeniable 5.0 XS ",
+      "color": "Red",
+      "price": 100,
+      "onSale": true,
+      "gender": "1",
+      "type": "Gym",
+      "salePrice": 88
+    },
+  
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/I/81idlqFqcUL._AC_UL480_QL65_.jpg",
+      "title": "Matein Trabel Laptop Backpack",
+      "color": "Black",
+      "price": 39,
+      "onSale": true,
+      "gender": "0",
+      "type": "Backpack",
+      "salePrice": 29
+    },
+  
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/I/91u7c5FX2mL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Carhartt Mini Backpack",
+      "color": "Orange",
+      "price": 46,
+      "onSale": true,
+      "gender": "01",
+      "type": "Backpack",
+      "salePrice": 30
+    },
+  
+    {
+      "id": 9,
+      "img": "https://m.media-amazon.com/images/I/91UsRZIC7hL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Herschel Pop Quiz Backpack",
+      "color": "Blue",
+      "price": 80,
+      "onSale": true,
+      "gender": "0",
+      "type": "Backpack",
+      "salePrice": 67
+    },
+  
+    {
+      "id": 10,
+      "img": "https://m.media-amazon.com/images/I/81VSEm2tCgL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Nike Graphic Gym Sack",
+      "color": "Black",
+      "price": 35,
+      "onSale": true,
+      "gender": "0",
+      "type": "Gym",
+      "salePrice": 25
+    },
+  
+    {
+      "id": 11,
+      "img": "https://m.media-amazon.com/images/I/61muLnSP9zL._AC_SX679_.jpg",
+      "title": "Nickelodeon Paw Patrol Polyester",
+      "color": "blue",
+      "price": 25,
+      "onSale": true,
+      "gender": "01",
+      "type": "Kids",
+      "salePrice": 19
+    },
+  
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/I/615kYh3LV5L._AC_SL1001_.jpg",
+      "title": "Wildkin Kids Overnighter Duffel Bag",
+      "color": "Pink",
+      "price": 43,
+      "onSale": false,
+      "gender": "1",
+      "type": "Kids",
+      "salePrice": 35
+    },
+    {
+      "id": 13,
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/24a83310-53f7-4c3a-904c-c955302480f6/brasilia-jdi-kids-backpack-mini-9ZSSdT.png",
+      "title": "Nike classic school bag in grey",
+      "color": "Grey",
+      "price": 14,
+      "onSale": false,
+      "gender": "01",
+      "type": "Backpack",
+      "salePrice": 11
+    },
+    {
+      "id": 14,
+      "img": "https://www.net-a-porter.com/variants/images/20346390235402337/in/w920_q60.jpg",
+      "title": "AMINA MUADDI Gilda mini crystal-embellished",
+      "color": "Brown",
+      "price": 585,
+      "onSale": false,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 536
+    },
+    {
+      "id": 15,
+      "img": "https://www.net-a-porter.com/variants/images/1647597276558320/bk/w920_q60.jpg",
+      "title": "GIVENCHY Kenny mini embellished satin shoulder bag",
+      "color": "Pink",
+      "price": 755,
+      "onSale": true,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 712
+    },
+    {
+      "id": 16,
+      "img": "https://m.media-amazon.com/images/I/51dI81U5KHL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Toddler 3D Comic",
+      "color": "Red",
+      "price": 40,
+      "onSale": true,
+      "gender": "0",
+      "type": "Kids",
+      "salePrice": 24
+    },
+    {
+      "id": 17,
+      "img": "https://m.media-amazon.com/images/I/81J5CyU-9SL._AC_SL1500_.jpg",
+      "title": "NASA Space Explorer",
+      "color": "Grey",
+      "price": 29,
+      "onSale": true,
+      "gender": "0",
+      "type": "Kids",
+      "salePrice": 23
+    },
+    {
+      "id": 18,
+      "img": "https://m.media-amazon.com/images/I/81X+1ybeS8S._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Adidas Team Issue 2 Medium Duffel Bag",
+      "color": "Green",
+      "price": 90,
+      "onSale": false,
+      "gender": "0",
+      "type": "Gym",
+      "salePrice": 73
+    },
+    {
+      "id": 19,
+      "img": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-green-handbag_1203-7656.jpg",
+      "title": "ETRO Crown Me Woven Leather",
+      "color": "Green",
+      "price": 345,
+      "onSale": false,
+      "gender": "1",
+      "type": "Luxury",
+      "salePrice": 298
+    },
+    {
+      "id": 20,
+      "img": "https://m.media-amazon.com/images/I/71sbJhxKeYL._AC_UX569_.jpg",
+      "title": "Yisibo Dinosaur Bag for Toddler ",
+      "color": "Orange",
+      "price": 30,
+      "onSale": true,
+      "gender": "01",
+      "type": "Kids",
+      "salePrice": 20
+    },
+    {
+      "id": 21,
+      "img": "https://m.media-amazon.com/images/I/91OkBJ9vWAL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "JanSport Cross Town Sedona Sun",
+      "color": "Orange",
+      "price": 50,
+      "onSale": true,
+      "gender": "1",
+      "type": "Backpack",
+      "salePrice": 41
+    },
+    {
+      "id": 22,
+      "img": "https://m.media-amazon.com/images/I/61CSygCDUVL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Lunch Bag for girls",
+      "color": "Brown",
+      "price": 10,
+      "onSale": true,
+      "gender": "1",
+      "type": "Kids",
+      "salePrice": 8
+    },
+    {
+      "id": 23,
+      "img": "https://i.pinimg.com/736x/08/52/0b/08520b7088bf1d373c09fe375ed6d52a.jpg",
+      "title": "Louis Vuitton X Supreme Red Epi Bandouliere",
+      "color": "Red",
+      "price": 500,
+      "onSale": false,
+      "gender": "0",
+      "type": "Luxury",
+      "salePrice": 480
+    },
+    {
+      "id": 24,
+      "img": "https://m.media-amazon.com/images/I/91RE0quzIHL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Nike Brasilia Training",
+      "color": "Grey",
+      "price": 70,
+      "onSale": false,
+      "gender": "0",
+      "type": "Gym",
+      "salePrice": 52
+    },
+    {
+      "id": 25,
+      "img": "https://m.media-amazon.com/images/I/A1IX0IDZyJL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Adidas Diablo Small",
+      "color": "Grey",
+      "price": 48,
+      "onSale": true,
+      "gender": "0",
+      "type": "Gym",
+      "salePrice": 37
+    },
+    {
+      "id": 26,
+      "img": "https://m.media-amazon.com/images/I/51Dh9ZX1C6L._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Nike Elemental Backpack",
+      "color": "Pink",
+      "price": 105,
+      "onSale": false,
+      "gender": "1",
+      "type": "Backpack",
+      "salePrice": 87
+    },
+    {
+      "id": 27,
+      "img": "https://m.media-amazon.com/images/I/81cFsHnnNwS._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Adidas Striker 2 Backpack",
+      "color": "Green",
+      "price": 44,
+      "onSale": false,
+      "gender": "0",
+      "type": "Backpack",
+      "salePrice": 35
+    },
+    {
+      "id": 28,
+      "img": "https://m.media-amazon.com/images/I/91rHSaOezjL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "Under Armour Adult Undeniable Duffle 4.0",
+      "color": "Blue",
+      "price": 200,
+      "onSale": true,
+      "gender": "0",
+      "type": "Gym",
+      "salePrice": 175
+    },
+    {
+      "id": 29,
+      "img": "https://m.media-amazon.com/images/I/918V-Mg6-LL._AC_UL480_FMwebp_QL65_.jpg",
+      "title": "John Deere Boys' Tractor",
+      "color": "Green",
+      "price": 115,
+      "onSale": true,
+      "gender": "0",
+      "type": "Kids",
+      "salePrice": 100
+    }
+  ]
+  
+
+  

@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-bottom: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.face {
+  color: red;
+  background-color:linen
+}
+.face1 {
+  color:cadetblue;
+}
+
+.blueColor {
+  color: blue;
+}
+.redColor {
+  color: red;
+}
+.orangeColor {
+  color: orange;
+}
+.pinkColor {
+  color:palevioletred;
+}
+.greyColor {
+  color:grey;
+}
+.brownColor {
+  color:brown;
+}
+.greenColor {
+  color:green;
+}
+.Colors {
+  color: white;
+  background-color:cadetblue;
+}
+.Contact1 {
+  color: white;
+  background-color:bisque;
+}
+.Contact2 {
+  color: white;
+  background-color:rgb(176, 233, 227);
+}
+.Contact3 {
+  color: white;
+  background-color:rgb(235, 189, 218);
+}
+.FAQH {
+  color: white;
+ 
+}
+
+.priceCard{
+  display: flex;
+  flex-direction: row;
+}
+.priceOnSale{
+  text-decoration: line-through;
+  color: grey;
+}
+
+.addToCartButton{
+  margin-bottom: auto;
+}
+.Background1{
+  background-color:snow;
+  
+}
+.cardrBackground1{
+  background-color:aliceblue;
+
+ 
+}
+.footerBackground1{
+  background-color:white;
+ 
+}
+.headers{
+  background-color:rgb(152, 178, 198);
+ 
+}
+hr.blueLine {
+  color:blue;
+  height: 1px;
+}
+hr.greenLine {
+  color:green;
+  height: 1px;
+}
+.faqAnswers{
+  background-color:rgb(255, 244, 244);
+}
+
+.nav2{
+  background-color:rgb(218, 231, 236);
+}
